@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  TwitterOAouth
 //
-//  Created by Seiji.Y. on 2016/12/09.
-//  Copyright © 2016年 Seiji.Y. All rights reserved.
 //
 
 import UIKit
