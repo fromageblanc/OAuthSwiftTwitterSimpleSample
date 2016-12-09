@@ -12,8 +12,8 @@ class ViewController: UIViewController {
     var oauthswift: OAuthSwift?
     
     let consumerData:[String:String] =
-        ["consumerKey":"srF3VG2ZlsixhQxzOqSztl6hk",
-        "consumerSecret":"XDBK1trjiXTg7Mofcl9Ec9GzcvIXoJDmXf3jNCppjO6c2Ea5ie"]
+        ["consumerKey":"xxxxxxxxxxxxxxxxxxxxxxxxx",
+        "consumerSecret":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"]
 
     @IBAction func twitterOuth(_ sender:UIButton) {
         doOAuthTwitter(consumerData)
